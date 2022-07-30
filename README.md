@@ -1,6 +1,6 @@
 # mynotes
 
-A new Flutter project.
+An flutter application  which is a simple and awesome notepad app. It gives you a quick and simple notepad editing experience when you write notes, memos, e-mails, messages, shopping lists and to-do lists.
 
 ## Getting Started
 
